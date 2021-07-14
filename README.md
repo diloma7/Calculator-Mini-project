@@ -1,2 +1,2 @@
-# Music-Mini-project
-Music player created by the use of JavaScript
+# Calculator-Mini-project
+Calculator created by the use of JavaScript
